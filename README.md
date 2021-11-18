@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=300&section=header&text=SeYeonCho%20&fontSize=90)
+
+
 ### Hi there 👋
 
 <!--
