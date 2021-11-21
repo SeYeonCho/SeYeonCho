@@ -2,7 +2,7 @@
 
 
  <p align="center"><strong>Introduction</strong></p>
- <p align="center">Hi there 👋  My name is seyeon Cho major in Software Engineering.</p>
+ <p align="center">Hi there 👋  My name is seyeon Cho, major in Software Engineering.</p>
  <p align="center">I mainly deal with the Java language, and I am interested in writing readable, clean code. </p>
  <p align="center">I am a BackEnd developer who continues to grow everyday through collaboration :)</p>
  <p align="center">.</p>
