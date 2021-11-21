@@ -5,7 +5,7 @@
  <p align="center">Hi there 👋  My name is seyeon Cho major in Software Engineering.</p>
  <p align="center">I mainly deal with the Java language, and I am interested in writing readable, clean code. </p>
  <p align="center">I am a BackEnd developer who continues to grow everyday through collaboration :)</p>
- <div align="center">.</div>
+ <p align="center">.</p>
  <p align="center"><strong>📧Contact</strong></p>
  <p align="center">cnsy831@gmail.com </p>
  <p align="center">.</p>
