@@ -16,9 +16,9 @@
  <p align="center">.</p>
  <p align="center"><strong>🏆Prizes</strong></p>
  <p align="center">SW중심대학 SW공모전 동상 [단국대학교 SW중심대학, 정보통신기술진흥센터]</p>
- <p align="center">SSAFY 2학기 공통프로젝트 우수상(3위) [삼성전자주식회사, 고용노동부]</p>
- <p align="center">SSAFY 2학기 특화프로젝트 최우수상(1위) [삼성전자주식회사, 고용노동부]</p>
- <p align="center"></p>
+ <p align="center">SSAFY 2학기 공통프로젝트 우수상(반 3위) [삼성전자주식회사, 고용노동부]</p>
+ <p align="center">SSAFY 2학기 특화프로젝트 최우수상(반 1위) [삼성전자주식회사, 고용노동부]</p>
+ <p align="center">SSAFY 2학기 자율프로젝트 최우수상(반 1위) [삼성전자주식회사, 고용노동부]</p>
  
 
 
